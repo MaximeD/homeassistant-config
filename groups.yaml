@@ -1,0 +1,5 @@
+parental_bedroom:
+  name: Chambre parentale
+  entities:
+    - sensor.humidity_158d0003591037
+    - sensor.temperature_158d0003591037

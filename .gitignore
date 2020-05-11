@@ -1,0 +1,13 @@
+.*
+
+home-assistant.log
+home-assistant_v2.db*
+*.db-journal
+
+lib
+deps
+tts
+ip_bans.yaml
+secrets.yaml
+
+!/.gitignore
